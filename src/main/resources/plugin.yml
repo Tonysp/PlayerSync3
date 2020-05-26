@@ -1,0 +1,6 @@
+name: PlayerSync3
+main: cz.goldminer.tonysp.playersync.bukkit.PlayerSyncBukkit
+version: ${project.version}
+website: http://www.goldminer.cz
+authors: [Tonysp]
+description: Plugin syncing player data across multiple servers.

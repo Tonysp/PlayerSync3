@@ -1,0 +1,4 @@
+name: PlayerSync3
+main: cz.goldminer.tonysp.playersync.bungeecord.PlayerSyncBungee
+version: ${project.version}
+author: Tonysp

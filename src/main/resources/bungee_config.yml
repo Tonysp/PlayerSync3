@@ -1,0 +1,14 @@
+postgresql:
+  url: 'url'
+  username: 'username'
+  password: 'password'
+
+redis:
+  ip: '127.0.0.1'
+  port: 123
+  password: 'password'
+
+discourse:
+  users-api-url: "yoursite.com/users.json"
+  api-key: ""
+  api-username: ""
