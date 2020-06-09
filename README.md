@@ -1,2 +1,2 @@
 # PlayerSync3
-Discourse to Minecraft authentication and inventory management plugin
+[Discourse](https://www.discourse.org/) to Minecraft authentication and inventory synchronization plugin.
